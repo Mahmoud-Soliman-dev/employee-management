@@ -25,7 +25,7 @@ bld/
 .vs/
 
 # exclude everything
-EmployeeManagement/wwwroot/
+EmployeeManagement/wwwroot/*
 
 # exception to the rule
 # !wwwroot/index.html
