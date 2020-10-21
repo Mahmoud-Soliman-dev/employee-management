@@ -28,6 +28,9 @@ bld/
 EmployeeManagement/wwwroot/*
 
 # exception to the rule
+!EmployeeManagement/wwwroot/index.html
+
+# exception to the rule
 # !wwwroot/index.html
 
 # MSTest test Results
